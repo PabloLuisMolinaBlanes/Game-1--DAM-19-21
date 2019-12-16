@@ -1,3 +1,17 @@
 # Java with LITIengine, The Pure 2D Java Game Engine
-This the repository where our Java game with LITIengine will be stored.
-[LITIengine Logo](data:image/webp;base64,UklGRgwCAABXRUJQVlA4TP8BAAAv8sAaEGegKADIyM1LC18xxFBrbRZtq6EmAAjGHjUUEEg9Fd0UR7IN/X1DGiIQjBCl5+SIINumuiM67gMA/P8HgFXNMoewIK4Wn7fXuTS9NSx3DsCNbdt18qQKdPAQ6d8OGJmcmT/k7pPbi81pgRZogUwxOZGq4pr3HvbiI/rPyG0kRVWnWUyPGF6QAm9aQKkbCqkweyj0/Qa+ofV22s6ZCdRptSMpWjBhOQCOaCGgckpTFcA/iiqYK5cAhFR5N1S0kgFQP7OMJAAN+ahpSB7hkPI8DQVABVaVWBgPmZlHixAAZUG2PDwd4VComA0e9SUzDJLKp7ZtBVt5NBoptqBI2FeEVPDF6tUVzVN0WUeJQ9aEEuhWy8x80Gk7ORETaeo0gC1H6t3pqITHvOsw9JJmaE+YH+dsfXfBt+eK+WNW9QasKSPIRFmhXvIYAEfzJ1+z749clRbqYwW5gmeVNeBdnl9L6uGKb85io0VT1l7gMkBEpu3czryHhsIi29UXXQYq5MSkxwXtUuY96qewyGkIszIu/ZDJJ3+ci80RGmfMGxSp0WtZ2wlUSedTdmIh6pnvRUUG1pnP6bmFaRSVncgAU+kN4SHrT2p3XadK3AetV2BaUPgDU6wKwcQ7nXjilLWoCYdsLq/UlZrs8kbcRAvQU+FnPEQVOGVX2kKsnwhOAA==)
+This is the repository where our Java game with LITIengine will be stored.
+![LITIengine Logo](https://raw.githubusercontent.com/gurkenlabs/litiengine/master/resources/LITIEngine_Logo_big.png)
+
+## About LITIengine
+LITIengine is an open source and easy to learn 2D Java Game Library. You can learn more about it on [the official website](https://litiengine.com/)
+
+## Why we chose LITIengine
+* It's Open Source and easy to learn.
+* Easy to work with spritesheets and audio files.
+* Lightweight and feature-rich
+
+Despite being a fairly new 2D Java Game Library and relatively small, we chose it because it suited our needs the best.
+
+You can check the Github repository of this tool *[here](https://github.com/gurkenlabs/litiengine).*
+
+And you can support the developers at *[gurkenlabs here](https://gurkenlabs.de/).*
