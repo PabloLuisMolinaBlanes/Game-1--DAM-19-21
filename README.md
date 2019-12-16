@@ -11,5 +11,7 @@ LITIengine is an open source and easy to learn 2D Java Game Library. You can lea
 * Lightweight and feature-rich
 
 Despite being a fairly new 2D Java Game Library and relatively small, we chose it because it suited our needs the best.
-You can check the Github repository of this tool [here](https://github.com/gurkenlabs/litiengine)
-And you can support the developers at [gurkenlabs here](https://gurkenlabs.de/)
+
+You can check the Github repository of this tool *[here]*(https://github.com/gurkenlabs/litiengine).
+
+And you can support the developers at *[gurkenlabs here]*(https://gurkenlabs.de/).
